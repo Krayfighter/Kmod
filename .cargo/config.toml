@@ -1,0 +1,5 @@
+
+[env]
+# SFML_INCLUDE_DIR = "/home/aidenk/Desktop/_Kmod/SFML/include"
+SFML_INCLUDE_DIR = {value = "SFML/include", relative = true, force=true}
+SFML_LIBS_DIR = {value = "build/lib", relative = true, force=true}
